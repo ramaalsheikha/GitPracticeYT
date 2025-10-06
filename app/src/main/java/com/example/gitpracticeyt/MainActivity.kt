@@ -16,7 +16,7 @@ class MainActivity : AppCompatActivity() {
         println(name)
         println("local change")
         println("local change two")
-        println("expirmental")
+        println("experimental")
         println("youtubetwo two")
     }
 }
